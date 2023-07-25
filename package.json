@@ -1,0 +1,28 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Just a simple minecraft spam bot designed for anarchy servers such as anarchyvn.net to bypass AntiSpam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "express": "^4.18.2",
+    "mineflayer": "^4.8.0",
+    "node-fetch": "^3.2.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Greenn7838/mineflayer-spam-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Greenn7838/mineflayer-spam-api/issues"
+  },
+  "homepage": "https://github.com/Greenn7838/mineflayer-spam-api#readme"
+}
