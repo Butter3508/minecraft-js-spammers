@@ -1,0 +1,25 @@
+{
+    "general": {
+        "webServer": false,
+        "host": "2b2h.org",
+        "port": 25565,
+        "username": "ButterBotsada1",
+        "version": "1.16.5",
+        "multi": true,
+        "prefixMulti": "Bsauda_"
+    },
+    "login": {
+        "use": true,
+        "method": "pin",
+        "pin": "1 2 3 4",
+        "password": "abcxyz11232"
+    },
+    "config": {
+        "interval": 3,
+        "messages": [
+            "Example1",
+            "Example2"
+        ],
+        "randomSuffix": true
+    }
+}
